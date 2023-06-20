@@ -12,6 +12,7 @@
 echo "hello my name is NOTHING!"
 
 ?>
+<script src="index.js"></script>
     
 </body>
 </html>
